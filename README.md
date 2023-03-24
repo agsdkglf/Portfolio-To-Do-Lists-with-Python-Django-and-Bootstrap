@@ -5,7 +5,6 @@ The project is a Django application that works as to-do list manager. Bootstrap 
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshot](#screenshot)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -25,10 +24,6 @@ The main page of the application displays all of to-do lists. There you may crea
 
 ## Features
 By clicking the "Add a new list" button, a page will be displayed where it is possible to name and create a new list. Next, you give a title to your list. It is also possible to add to-do items to the list by clicking "Add a new item". After choosing the option, the item may be given a title, and more details can be added in the "Description" box. It is also possible to set up the due date. To delete the list you just need to click "Delete this list" button.
-
-
-## Screenshot
-![Example screenshot](./img/screenshot.png)
 
 
 ## Setup
